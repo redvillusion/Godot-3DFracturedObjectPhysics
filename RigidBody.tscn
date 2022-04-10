@@ -1,0 +1,4 @@
+[gd_scene format=2]
+
+[node name="RigidBody" type="RigidBody"]
+mass = 3.02041

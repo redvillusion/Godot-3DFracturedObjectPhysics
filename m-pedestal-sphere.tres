@@ -1,0 +1,8 @@
+[gd_resource type="SpatialMaterial" format=2]
+
+[resource]
+albedo_color = Color( 1, 0, 0, 0.866667 )
+roughness = 0.0
+refraction_enabled = true
+refraction_scale = -0.06
+refraction_texture_channel = 0
